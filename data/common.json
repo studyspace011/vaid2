@@ -1,0 +1,12 @@
+{"papers":[
+ {"id": "common-aec1-hin", "sem": 1, "dept": "Common", "ab": "", "type": "AEC", "code": "AEC-1", "name": "MIL - Hindi", "cr": 2, "syl": "/syllabus/common/aec1-hin-syllabus.pdf", "notes": "/notes/common/aec1-hin-notes.pdf"},
+ {"id": "common-aec1-eng", "sem": 1, "dept": "Common", "ab": "", "type": "AEC", "code": "AEC-1", "name": "MIL - English", "cr": 2, "syl": "/syllabus/common/aec1-eng-syllabus.pdf", "notes": "/notes/common/aec1-eng-notes.pdf"},
+ {"id": "common-sec1", "sem": 1, "dept": "Common", "ab": "", "type": "SEC", "code": "SEC-1", "name": "Communication in Everyday Life", "cr": 3, "syl": "/syllabus/common/sec1-syllabus.pdf", "notes": "/notes/common/sec1-notes.pdf"},
+ {"id": "common-vac1", "sem": 1, "dept": "Common", "ab": "", "type": "VAC", "code": "VAC-1", "name": "Swachh Bharat", "cr": 3, "syl": "/syllabus/common/vac1-syllabus.pdf", "notes": "/notes/common/vac1-notes.pdf"},
+ {"id": "common-aec2", "sem": 2, "dept": "Common", "ab": "", "type": "AEC", "code": "AEC-2", "name": "Environmental Science (EVS)", "cr": 2, "syl": "/syllabus/common/aec2-syllabus.pdf", "notes": "/notes/common/aec2-notes.pdf"},
+ {"id": "common-sec2", "sem": 2, "dept": "Common", "ab": "", "type": "SEC", "code": "SEC-2", "name": "Personality Development and Communication", "cr": 2, "syl": "/syllabus/common/sec2-syllabus.pdf", "notes": "/notes/common/sec2-notes.pdf"},
+ {"id": "common-vac2", "sem": 2, "dept": "Common", "ab": "", "type": "VAC", "code": "VAC-2", "name": "Constitutional Values & Fundamental Duties", "cr": 3, "syl": "/syllabus/common/vac2-syllabus.pdf", "notes": "/notes/common/vac2-notes.pdf"},
+ {"id": "common-aec3", "sem": 3, "dept": "Common", "ab": "", "type": "AEC", "code": "AEC-3", "name": "Disaster Management", "cr": 2, "syl": "/syllabus/common/aec3-syllabus.pdf", "notes": "/notes/common/aec3-notes.pdf"},
+ {"id": "common-sec3", "sem": 3, "dept": "Common", "ab": "", "type": "SEC", "code": "SEC-3", "name": "Communication in Professional Life", "cr": 2, "syl": "/syllabus/common/sec3-syllabus.pdf", "notes": "/notes/common/sec3-notes.pdf"},
+ {"id": "common-aec4", "sem": 4, "dept": "Common", "ab": "", "type": "AEC", "code": "AEC-4", "name": "NCC/NSS, NGOs/Social Service/Scout & Guide/Sports", "cr": 2, "syl": "/syllabus/common/aec4-syllabus.pdf", "notes": "/notes/common/aec4-notes.pdf"}
+]}
